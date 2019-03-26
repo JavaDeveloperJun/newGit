@@ -4,7 +4,7 @@ package Nasledovanie;
      int height = 180;
      String name  = "Default";
 
-     void say ( String name){
+      void say ( String name){
         System.out.println("Name," + name);
     }
 
