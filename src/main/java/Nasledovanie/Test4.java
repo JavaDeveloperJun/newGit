@@ -14,6 +14,7 @@ package Nasledovanie;
         height = h;
         name = n;
     }
+
 }
 
 
